@@ -53,7 +53,7 @@ O SafeTI Frontend é responsável por fornecer uma interface intuitiva e amigáv
 ## Links Relacionados
 
 - **Back-end Repository**: [URL do Repositório Back-end](url-repositorio-back)
-- **Portal da Plataforma SafeTI**: [URL do Portal](url-portal)
+- **Portal da Plataforma SafeTI**: [URL do Portal](https://github.com/DavidTMaciel/safeTi-portal)
 
 ---
 
